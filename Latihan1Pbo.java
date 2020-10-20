@@ -9,6 +9,11 @@ package latihan1.pbo;
  *
  * @author damai
  */
+ * NAMA    : Damai Saputra Laoli
+ * KELAS   : PBO1
+ * NIM     : 10119012
+ * Deskripsi Program ini berisi program untuk menampilkan 
+ * jenis jenis tipe bilangan bulat
 public class Latihan1Pbo {
 
     /**
